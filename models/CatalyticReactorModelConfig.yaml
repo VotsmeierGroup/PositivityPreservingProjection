@@ -1,0 +1,10 @@
+architecture_args:
+  hidden_size: 100
+  num_layers: 3
+data_args:
+  train_size: 0.4
+  val_size: 0.1
+hidden_size: 50
+num_layers: 3
+train_args:
+  epochs: 10000

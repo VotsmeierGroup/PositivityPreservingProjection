@@ -1,0 +1,9 @@
+numpy==2.2.2
+ipython
+jupyter
+matplotlib
+pandas==2.2.3
+scipy==1.15.1
+pyyaml
+torch==2.6.0
+

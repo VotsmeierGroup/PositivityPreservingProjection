@@ -1,0 +1,12 @@
+model:
+  atom_balance_mean_error: 0.0003755608203304622
+  negative_count_percentage: 21.468939393939394
+  rmse: 0.002254049339026892
+orthogonal_projection:
+  atom_balance_mean_error: 3.6400137664350025e-12
+  negative_count_percentage: 22.145227272727272
+  rmse: 0.002252780321034267
+positivity_projection:
+  atom_balance_mean_error: 3.6325297745365752e-12
+  negative_count_percentage: 0.0
+  rmse: 0.0022899240652061574

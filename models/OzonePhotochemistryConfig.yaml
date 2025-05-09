@@ -1,0 +1,9 @@
+architecture_args:
+  architecture: standardNet
+  hidden_size: 100
+  num_layers: 5
+hidden_size: 100
+num_layers: 5
+train_args:
+  epochs: 5000
+

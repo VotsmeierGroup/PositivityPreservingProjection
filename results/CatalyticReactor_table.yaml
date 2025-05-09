@@ -1,0 +1,15 @@
+model:
+  mean_err_atombalance: 0.016899591456166367
+  neg_count: 0.0
+  rel_err: 0.5390408741248863
+  rmse: 0.011220462034154478
+orthogonal_projection:
+  mean_err_atombalance: 6.901146321069973e-16
+  neg_count: 26.400000000000002
+  rel_err: 15927.386067186177
+  rmse: 0.0074711664175370765
+positivity_projection:
+  mean_err_atombalance: 7.052136652418995e-16
+  neg_count: 0.0
+  rel_err: 0.47674906300315983
+  rmse: 0.0029804611486623435
